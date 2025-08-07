@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: pritamshende
+spec:
+  profile:
+    displayName: Pritam Shende
+    email: pritamshende@yourcompany.com
+  memberOf: []
